@@ -5,7 +5,7 @@ import (
 	"net/url"
 )
 
-const aurl string = "https://lco.dev:3000/learn?coursename=reactjs&paymentid=132q3424234udfsfdfa"
+const aurl string = "https://satish:3000"
 
 func main() {
 	fmt.Println("Learning URL's handling")
